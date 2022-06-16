@@ -1,22 +1,19 @@
 # Project_1
 Data analysis course project 1 group 5
 Project 1 - Group 5
+16/6/2022
 
 Research Question:
-General
-How house prices have changed in Victoria in the last 10 years?
+How house prices and renting costs have changed in Melbourne Metro in the last 10 years?
 
 Specific
-Which areas have been affected by house prices in the last decade?
-Which areas have benefit from the increase in prices?
-Which areas / suburbs have been affected and therefore reduce their growth?
+1. Which suburbs have been most affected by the price changing?
+2. Which sububrs have benefit from the increase of price? And which suburbs have been most affected by this fluctuation?
 
 Purpose / reason why
-Is it still a good idea to invest in houses in victoria?
-Which is the risk / risk investment we discovered in the analysis?
+1. Is it still a good idea to invest in houses in Melbourne despite the increase in the prices?
+2. Which is the risk investment we discovered in the analysis?
 
-
-Database:
-
-Open Data Hub
-vicroadsopendata-vicroadsmaps.opendata.arcgis.com
+Databases 
+1. Open Data Hub / vicroadsopendata-vicroadsmaps.opendata.arcgis.com
+2. Moving annual rent by suburb - September quarter 2021 
